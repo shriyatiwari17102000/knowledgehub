@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/knowledgehub/static/css/main.75af654e.css",
-    "main.js": "/knowledgehub/static/js/main.b5bf4ff7.js",
-    "static/js/787.618e7926.chunk.js": "/knowledgehub/static/js/787.618e7926.chunk.js",
+    "main.js": "/knowledgehub/static/js/main.f2f8cf1d.js",
+    "static/js/787.9c8754e2.chunk.js": "/knowledgehub/static/js/787.9c8754e2.chunk.js",
     "static/media/school.jpg": "/knowledgehub/static/media/school.5f53d1c3fc3e0b54ec44.jpg",
     "static/media/coaching_img_foot.jpg": "/knowledgehub/static/media/coaching_img_foot.1d8713b7f13f176c81ec.jpg",
     "static/media/KhLogo.jpg": "/knowledgehub/static/media/KhLogo.fec29a8f4044e4eb8a68.jpg",
@@ -25,11 +25,11 @@
     "static/media/logo.svg": "/knowledgehub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/knowledgehub/index.html",
     "main.75af654e.css.map": "/knowledgehub/static/css/main.75af654e.css.map",
-    "main.b5bf4ff7.js.map": "/knowledgehub/static/js/main.b5bf4ff7.js.map",
-    "787.618e7926.chunk.js.map": "/knowledgehub/static/js/787.618e7926.chunk.js.map"
+    "main.f2f8cf1d.js.map": "/knowledgehub/static/js/main.f2f8cf1d.js.map",
+    "787.9c8754e2.chunk.js.map": "/knowledgehub/static/js/787.9c8754e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75af654e.css",
-    "static/js/main.b5bf4ff7.js"
+    "static/js/main.f2f8cf1d.js"
   ]
 }
