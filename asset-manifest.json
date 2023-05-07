@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/knowledgehub/static/css/main.75af654e.css",
+    "main.js": "/knowledgehub/static/js/main.b5bf4ff7.js",
+    "static/js/787.618e7926.chunk.js": "/knowledgehub/static/js/787.618e7926.chunk.js",
+    "static/media/school.jpg": "/knowledgehub/static/media/school.5f53d1c3fc3e0b54ec44.jpg",
+    "static/media/coaching_img_foot.jpg": "/knowledgehub/static/media/coaching_img_foot.1d8713b7f13f176c81ec.jpg",
+    "static/media/KhLogo.jpg": "/knowledgehub/static/media/KhLogo.fec29a8f4044e4eb8a68.jpg",
+    "static/media/innovation1.jpg": "/knowledgehub/static/media/innovation1.28cb5d3b1900d78ef112.jpg",
+    "static/media/chartOne.webp": "/knowledgehub/static/media/chartOne.c51d8a400a9452d96278.webp",
+    "static/media/chartThree.webp": "/knowledgehub/static/media/chartThree.f3fda3719adbc6765a70.webp",
+    "static/media/chartFour.webp": "/knowledgehub/static/media/chartFour.78f5b6e7e68b8a1a5e46.webp",
+    "static/media/crousel4.jpeg": "/knowledgehub/static/media/crousel4.5ad5298d5e80b9b680d4.jpeg",
+    "static/media/crousel3.jpeg": "/knowledgehub/static/media/crousel3.5a118a4128f246c56f43.jpeg",
+    "static/media/innovation2.jpg": "/knowledgehub/static/media/innovation2.d5c4b0445d46b431a7c0.jpg",
+    "static/media/crousel1.jpeg": "/knowledgehub/static/media/crousel1.44069a62659e690738af.jpeg",
+    "static/media/crousel2.jpeg": "/knowledgehub/static/media/crousel2.55bce498276c633b964f.jpeg",
+    "static/media/chartTwo.webp": "/knowledgehub/static/media/chartTwo.abf8f21e294ef84f6254.webp",
+    "static/media/Contactpic2.jpg": "/knowledgehub/static/media/Contactpic2.b6687534cfa7868947d7.jpg",
+    "static/media/Contactpic1.jpg": "/knowledgehub/static/media/Contactpic1.2bd565163c3187eea88a.jpg",
+    "static/media/innovation3.jpg": "/knowledgehub/static/media/innovation3.d4b5bb9a4de2f670b7d3.jpg",
+    "static/media/playstore.png": "/knowledgehub/static/media/playstore.124a9d65fa463f47ab05.png",
+    "static/media/Contactpic3.jpg": "/knowledgehub/static/media/Contactpic3.ebf9300e013f78c98d26.jpg",
+    "static/media/appstore.png": "/knowledgehub/static/media/appstore.a8f10fd53afe8fdcee14.png",
+    "static/media/logo.svg": "/knowledgehub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/knowledgehub/index.html",
+    "main.75af654e.css.map": "/knowledgehub/static/css/main.75af654e.css.map",
+    "main.b5bf4ff7.js.map": "/knowledgehub/static/js/main.b5bf4ff7.js.map",
+    "787.618e7926.chunk.js.map": "/knowledgehub/static/js/787.618e7926.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75af654e.css",
+    "static/js/main.b5bf4ff7.js"
+  ]
+}
